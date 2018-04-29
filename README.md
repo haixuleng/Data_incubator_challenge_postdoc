@@ -1,5 +1,6 @@
 # Data_incubator_challenge_postdoc
 A study of the employment of the doctorate recipients, focus on the postdoc positions 
+
 Data source: https://ncsesdata.nsf.gov/datadownload/
 
 Data description: https://www.nsf.gov/statistics/srvydoctoratework/#sd&tabs-2&micro
@@ -9,9 +10,11 @@ As a graduate student in physics, I found it hard to find a position in the indu
 Here are the questions I want to answer after this data analysis project:
 
 1. What is the proportion of the postdocs took the postdoc position because of lack of other employment options? How does this proportion correlate with the number of years of being a postdoc (or age)? SOLVED: 1st plot.
+
 Finding: I found that some people got stuck in the postdoc position. Nearly half of the people who are working as a postdoc and also age between 45-50 think they have very little other career options. The number is around 25% for the fresh postdoc of 25 to 30 years old.
 
 2. PhDs in which field work in a different field than their PhD work? SOLVED: 2nd plot
+
 Finding: I found that physical science major has the largest proportion of PhDs that work in a field not so strongly related to their PhD research. It is surprising to see that a lot of engineering majors also work outside of their PhD research. Psychology, health, and computer science majors seem to have a good fit between their research and the job. I have to admit that the difference between fields is much smaller than I expected.
 
 3. In general, is there an over-supply problem of PhDs for the research faculty positions in the US, in terms of the available research positions?
