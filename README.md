@@ -1,6 +1,7 @@
 # Data_incubator_challenge_postdoc
 A study of the employment of the doctorate recipients, focus on the postdoc positions 
 Data source: https://ncsesdata.nsf.gov/datadownload/
+
 Data description: https://www.nsf.gov/statistics/srvydoctoratework/#sd&tabs-2&micro
 
 As a graduate student in physics, I found it hard to find a position in the industry that matches my research experience. Another option for me is to find a post-doc position. As we all know, it is very competitive in academia, only part of the postdoc positions will turn into a full-time position at the universities. I want to find the employment data of the graduated PhDs. In our department, only the imminent positions of the past graduated PhDs are listed on our website. Most of the graduated PhD students took a postdoc position. From this limited information, it is hard to get a sense of how hard it will be for the PhD students to get a job. I have seen people working as a postdoc for over ten years. I found that National Science Foundation (NSF) has surveyed thousands of PhDs about their career after graduation.  I want to use the survey data to analyze the career of the PhDs. Hopefully, by looking into the career of the PhDs, I can get some insight on it, which will help the future PhDs. 
